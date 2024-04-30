@@ -1,0 +1,67 @@
+{
+    "Libros": [
+        {
+            "id": 1,
+            "nombre": "Los 7 hábitos de la gente altamente efectiva",
+            "autor": "Stephen R. Covey",
+            "año": 1989
+        },
+        {
+            "id": 2,
+            "nombre": "Padre rico, padre pobre",
+            "autor": "Robert Kiyosaki",
+            "año": 1997
+        },
+        {
+            "id": 3,
+            "nombre": "Cincuenta y tres maneras de soltarse el pelo",
+            "autor": "Elvira Sastre",
+            "año": 2013
+        },
+        {
+            "id": 4,
+            "nombre": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "año": 1967
+        },
+        {
+            "id": 5,
+            "nombre": "Orgullo y prejuicio",
+            "autor": "Jane Austen",
+            "año": 1813
+        },
+        {
+            "id": 6,
+            "nombre": "Matar un ruiseñor",
+            "autor": "Harper Lee",
+            "año": 1960
+        },
+        {
+            "id": 7
+        },
+        {
+            "id": 8
+        },
+        {
+            "id": 9
+        },
+        {
+            "id": null
+        },
+        {
+            "id": null
+        },
+        {
+            "id": null
+        },
+        {
+            "id": null
+        },
+        {
+            "id": null
+        },
+        {
+            "id": null
+        }
+    ]
+}

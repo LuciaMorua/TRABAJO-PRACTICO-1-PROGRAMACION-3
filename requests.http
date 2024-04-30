@@ -1,0 +1,29 @@
+GET http://localhost:3000/Libros HTTP/1.1
+
+###
+
+GET http://localhost:3000/Libros/5 HTTP/1.1
+
+###
+POST http://localhost:3000/Libros HTTP/1.1
+Content-Type: application/json
+
+{
+    "nombre": "101 dalmatas",
+    "autor":"Dodie Smith",
+    "año": 1956
+
+}
+
+###
+PUT http://localhost:3000/Libros/4 HTTP/1.1
+Content-Type: application/json
+
+{
+    "nombre": "10ododododod"
+}
+
+###
+
+DELETE  http://localhost:3000/Libros/4 HTTP/1.1
+
